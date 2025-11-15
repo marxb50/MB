@@ -1,0 +1,8 @@
+{
+  "name": "Sistema de Gestão de Serviços",
+  "description": "Um sistema para funcionários enviarem solicitações de serviço com foto e localização, para fiscais aprovarem e para empresas executarem e finalizarem as tarefas. Esta é uma implementação em React que simula a funcionalidade solicitada para o Google Apps Script.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
